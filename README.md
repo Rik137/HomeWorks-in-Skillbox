@@ -6,4 +6,4 @@
 - Объекты и классы. Часть 3. Static, константы и enum [задача](https://github.com/Rik137/ObjectsAndClasses_StaticFina)
 - Примитивы. [задача 1](), [задача 2]().
 - Числа и даты. [задача 1](), [задача 2]().
-- Массивы и коллекции [массивы](), [коллекция List](https://github.com/Rik137/java-collection-list), [коллекция Set](https://github.com/Rik137/java-collection-set), [таблици Map](https://github.com/Rik137/java-collection-map), [сортировки коллекций]().
+- Массивы и коллекции [массивы](https://github.com/Rik137/java-collection-array), [коллекция List](https://github.com/Rik137/java-collection-list), [коллекция Set](https://github.com/Rik137/java-collection-set), [таблици Map](https://github.com/Rik137/java-collection-map), [сортировки коллекций]().
