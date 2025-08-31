@@ -5,4 +5,4 @@
 - Объекты и классы. Часть 2. Инкапсуляция [задача](https://github.com/Rik137/ObjectsAndClasses_Encapsulation/tree/master).
 - Объекты и классы. Часть 3. Static, константы и enum [задача](https://github.com/Rik137/ObjectsAndClasses_StaticFina)
 - Строки. [задача](https://github.com/Rik137/java-strings/tree/master).
-- Массивы и коллекции [массивы](https://github.com/Rik137/java-collection-array), [коллекция List](https://github.com/Rik137/java-collection-list), [коллекция Set](https://github.com/Rik137/java-collection-set), [таблици Map](https://github.com/Rik137/java-collection-map), [сортировки коллекций]().
+- Массивы и коллекции [массивы](https://github.com/Rik137/java-collection-array), [коллекция List](https://github.com/Rik137/java-collection-list), [коллекция Set](https://github.com/Rik137/java-collection-set), [таблици Map](https://github.com/Rik137/java-collection-map)
