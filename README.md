@@ -7,7 +7,7 @@
 - Строки. [задача](https://github.com/Rik137/java-strings/tree/master).
 - Массивы и коллекции [массивы](https://github.com/Rik137/java-collection-array), [коллекция List](https://github.com/Rik137/java-collection-list), [коллекция Set](https://github.com/Rik137/java-collection-set), [таблици Map](https://github.com/Rik137/java-collection-map)
 - Наследование [задача](https://github.com/Rik137/java-inheritance-basics)
-- Абстрактные классы и интерфейсы [задача]()
+- Абстрактные классы и интерфейсы [задача](https://github.com/Rik137/Abstract-casses)
 - лямда вырожения [задача]()
 - Stream API [задача]()
 - Исключения, отладка и логирование [задача]()
