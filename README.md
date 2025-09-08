@@ -10,7 +10,7 @@
 - Абстрактные классы и интерфейсы [задача](https://github.com/Rik137/Abstract-casses)
 - лямда вырожения [задача]()
 - Stream API [задача]()
-- Исключения, отладка и логирование [задача№ 1](https://github.com/Rik137/Console-customer-list), [задача№ 2]()
+- Исключения, отладка и логирование [задача№ 1](https://github.com/Rik137/Console-customer-list), [задача№ 2](https://github.com/Rik137/SPBMetro)
 - Работа с файлами и сетью [задача](https://github.com/Rik137/Data-Collector)
 - Работа с MySQL в Java [задача](), [задача №`2]()
 - Многопоточность [задача №1](), [задача №2](), [задача №3]()
