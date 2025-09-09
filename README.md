@@ -12,4 +12,4 @@
 - Исключения, отладка и логирование [задача№ 1](https://github.com/Rik137/Console-customer-list), [задача№ 2](https://github.com/Rik137/SPBMetro)
 - Работа с файлами и сетью [задача](https://github.com/Rik137/Data-Collector)
 - Работа с MySQL в Java [задача](), [задача №`2]()
-- Многопоточность [задача №1](https://github.com/Rik137/Deadlock), [задача №2](), [задача №3]()
+- Многопоточность [задача №1](https://github.com/Rik137/Deadlock), [задача №2](), [задача №3]() [задача №4]()
