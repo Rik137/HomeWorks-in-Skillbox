@@ -11,5 +11,6 @@
 - функциональное программирование [задача]()
 - Исключения, отладка и логирование [задача№ 1](https://github.com/Rik137/Console-customer-list), [задача№ 2](https://github.com/Rik137/SPBMetro)
 - Работа с файлами и сетью [задача](https://github.com/Rik137/Data-Collector)
-- Работа с MySQL в Java [задача](), [задача №`2]()
+- Работа с MySQL в Java [задача №1](), [задача №2]()
+- NoSQL в Java [задача]()
 - Многопоточность [задача №1](https://github.com/Rik137/Deadlock), [задача №2](https://github.com/Rik137/ForkoinPool-example), [задача №3](https://github.com/Rik137/Image-resizer), [задача №4](https://github.com/Rik137/Transactions)
