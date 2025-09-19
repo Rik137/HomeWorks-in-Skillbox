@@ -8,7 +8,7 @@
 - Массивы и коллекции [массивы](https://github.com/Rik137/java-collection-array), [коллекция List](https://github.com/Rik137/java-collection-list), [коллекция Set](https://github.com/Rik137/java-collection-set), [таблици Map](https://github.com/Rik137/java-collection-map)
 - Наследование [задача](https://github.com/Rik137/java-inheritance-basics)
 - Абстрактные классы и интерфейсы [задача](https://github.com/Rik137/Abstract-casses)
-- функциональное программирование [задача]()
+- функциональное программирование [задача](https://github.com/Rik137/StreamAPI)
 - Исключения, отладка и логирование [задача№ 1](https://github.com/Rik137/Console-customer-list), [задача№ 2](https://github.com/Rik137/SPBMetro)
 - Работа с файлами и сетью [задача](https://github.com/Rik137/Data-Collector)
 - Работа с MySQL в Java [задача №1](https://github.com/Rik137/SQL--xample), [задача №2](https://github.com/Rik137/Hibernate-example)
