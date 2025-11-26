@@ -1,16 +1,17 @@
-# домашнии работы по теме ocновы java.
-- синтаксис языка часть первая [задача 1](https://github.com/Rik137/AgeComparator) , [задача 2](https://github.com/Rik137/Booleans).
-- cинтаксис языка часть вторая [задача 1](https://github.com/Rik137/ForCycle/tree/master), [задача 2](https://github.com/Rik137/FactorialCalculator/tree/master), [задача 3](https://github.com/Rik137/SwimmingPool/tree/master), [задача 4](https://github.com/Rik137/GuessTheNumber/tree/master).
-- Объекты и классы. Часть 1. Методы и классы [задача 1](https://github.com/Rik137/testClassAndMethod), [задача 2](https://github.com/Rik137/ObjectsAndMethods/tree/master).
-- Объекты и классы. Часть 2. Инкапсуляция [задача](https://github.com/Rik137/ObjectsAndClasses_Encapsulation/tree/master).
-- Объекты и классы. Часть 3. Static, константы и enum [задача](https://github.com/Rik137/ObjectsAndClasses_StaticFina)
-- Строки. [задача](https://github.com/Rik137/java-strings/tree/master).
-- Массивы и коллекции [массивы](https://github.com/Rik137/java-collection-array), [коллекция List](https://github.com/Rik137/java-collection-list), [коллекция Set](https://github.com/Rik137/java-collection-set), [таблици Map](https://github.com/Rik137/java-collection-map)
-- Наследование [задача](https://github.com/Rik137/java-inheritance-basics)
-- Абстрактные классы и интерфейсы [задача](https://github.com/Rik137/Abstract-casses)
-- функциональное программирование [задача](https://github.com/Rik137/StreamAPI)
-- Исключения, отладка и логирование [задача№ 1](https://github.com/Rik137/Console-customer-list), [задача№ 2](https://github.com/Rik137/SPBMetro)
-- Работа с файлами и сетью [задача](https://github.com/Rik137/Data-Collector)
-- Работа с MySQL в Java [задача №1](https://github.com/Rik137/SQL--xample), [задача №2](https://github.com/Rik137/Hibernate-example)
-- NoSQL в Java [задача](https://github.com/Rik137/skill-redis-java)
-- Многопоточность [задача №1](https://github.com/Rik137/Deadlock), [задача №2](https://github.com/Rik137/ForkoinPool-example), [задача №3](https://github.com/Rik137/Image-resizer), [задача №4](https://github.com/Rik137/Transactions)
+# Java Basics Homework
+- Language Syntax Part 1 [Task 1](https://github.com/Rik137/AgeComparator), [Task 2](https://github.com/Rik137/Booleans)
+- Language Syntax Part 2 [Task 1](https://github.com/Rik137/ForCycle/tree/master), [Task 2](https://github.com/Rik137/FactorialCalculator/tree/master), [Task 3](https://github.com/Rik137/SwimmingPool/tree/master), [Task 4](https://github.com/Rik137/GuessTheNumber/tree/master)
+- Objects and Classes Part 1: Methods and Classes [Task 1](https://github.com/Rik137/testClassAndMethod), [Task 2](https://github.com/Rik137/ObjectsAndMethods/tree/master)
+- Objects and Classes Part 2: Encapsulation [Task](https://github.com/Rik137/ObjectsAndClasses_Encapsulation/tree/master)
+- Objects and Classes Part 3: Static, Constants, and Enums [Task](https://github.com/Rik137/ObjectsAndClasses_StaticFina)
+- Strings [Task](https://github.com/Rik137/java-strings/tree/master)
+- Arrays and Collections [Arrays](https://github.com/Rik137/java-collection-array), [List Collection](https://github.com/Rik137/java-collection-list), [Set Collection](https://github.com/Rik137/java-collection-set), [Map Tables](https://github.com/Rik137/java-collection-map)
+- Inheritance [Task](https://github.com/Rik137/java-inheritance-basics)
+- Abstract Classes and Interfaces [Task](https://github.com/Rik137/Abstract-casses)
+- Functional Programming [Task](https://github.com/Rik137/StreamAPI)
+- Exceptions, Debugging, and Logging [Task 1](https://github.com/Rik137/Console-customer-list), [Task 2](https://github.com/Rik137/SPBMetro)
+- Working with Files and Network [Task](https://github.com/Rik137/Data-Collector)
+- Working with MySQL in Java [Task 1](https://github.com/Rik137/SQL--xample), [Task 2](https://github.com/Rik137/Hibernate-example)
+- NoSQL in Java [Task](https://github.com/Rik137/skill-redis-java)
+- Multithreading [Task 1](https://github.com/Rik137/Deadlock), [Task 2](https://github.com/Rik137/ForkoinPool-example), [Task 3](https://github.com/Rik137/Image-resizer), [Task 4](https://github.com/Rik137/Transactions)
+
